@@ -7,4 +7,9 @@
 - 使用列表和循环处理两页目录
 - 测试爬取内容并保存
 - 修改最终版本的代码
- 
+## 小说正文
+发现小说少了挺多章节，但是每一章节的url倒是连续的
+第一章：https://www.sudugu.com/318/478053.html
+第二章：https://www.sudugu.com/318/478054.html
+第三章：https://www.sudugu.com/318/478055.html
+第五章：https://www.sudugu.com/318/478056.html
